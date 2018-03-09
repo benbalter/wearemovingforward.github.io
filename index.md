@@ -82,7 +82,7 @@ _For those thinking: “We don’t have anything yet, where do we start?”_
 * [Inclusion Ventures](http://inclusionventures.com/), a strategic consulting firm that provides training to help organizations and VCs take an inclusive approach to diversity and leadership
 * [FemaleFounder.org](https://www.femalefounder.org/), a community of women helping women (e.g., female founder office hours hosted across the country with top-tier female VCs)
 * [Parity.org](https://www.parity.org/), an organization that encourages corporations to commit to interviewing at least one qualified woman for all open roles at the VP level and above
-* [ReadySet](http://www.thereadyset.co/), is a strategy and solutions firm that helps innovative organizations become more diverse, equitable, and inclusive. We partner with organizations to design and implement strategies, provide training, and give on going advisory support.  
+* [ReadySet](http://www.thereadyset.co/), is a strategy and solutions firm that helps innovative organizations become more diverse, equitable, and inclusive 
 * [OutsideAssist](https://outsideassist.com/) deploys both the reporting tools and the mediation team needed to help businesses identify and solve human issues early and fairly.
 * _More coming soon._  A number of organizations have informed us of initiatives that will launch in the next few months
 
@@ -120,7 +120,7 @@ If your organization is working on any tools or services for VCs shifting the di
 * Ellen Pao / Project Include - ["#MovingForward Together"](https://medium.com/projectinclude/movingforward-together-1f19a991a68c) (March 8, 2018)
 * Cheryl (Yeoh) Sew Hoy - ["#MovingForward: Highlighting VCs Committed to Action"](https://www.linkedin.com/pulse/movingforward-highlighting-vcs-committed-action-cheryl-sew-hoy/?published=t) (March 8, 2018)
 * Mark Suster - ["The VC Inclusion Clause #MovingForward"](https://bothsidesofthetable.com/the-vc-inclusion-clause-movingforward-c5e21e61820) (March 8, 2018)
-* Aydin Senkut - ["Reflections on #MovingForward"](https://www.linkedin.com/pulse/reflections-movingforward-aydin-senkut/?trackingId=jLqKECm6f3GC980OXZ5WTQ%3D%3D) (March 8, 2018)
+* Aydin Senkut - ["Reflections on #MovingForward"](https://www.linkedin.com/pulse/reflections-movingforward-aydin-senkut) (March 8, 2018)
 * Brad Feld - ["International Women’s Day #StartWithEight #MovingForward"](https://www.feld.com/archives/2018/03/international-womens-day-startwitheight-movingforward.html) (March 8, 2018)
 
 
