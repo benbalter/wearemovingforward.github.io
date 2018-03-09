@@ -83,6 +83,7 @@ _For those thinking: “We don’t have anything yet, where do we start?”_
 * [FemaleFounder.org](https://www.femalefounder.org/), a community of women helping women (e.g., female founder office hours hosted across the country with top-tier female VCs)
 * [Parity.org](https://www.parity.org/), an organization that encourages corporations to commit to interviewing at least one qualified woman for all open roles at the VP level and above
 * [ReadySet](http://www.thereadyset.co/), is a strategy and solutions firm that helps innovative organizations become more diverse, equitable, and inclusive. We partner with organizations to design and implement strategies, provide training, and give on going advisory support.  
+* [OutsideAssist](https://outsideassist.com/) deploys both the reporting tools and the mediation team needed to help businesses identify and solve human issues early and fairly.
 * _More coming soon._  A number of organizations have informed us of initiatives that will launch in the next few months
 
 If your organization is working on any tools or services for VCs shifting the diversity, inclusion, and anti-harassment paradigm and would like to be included on this list, please email us at _hello@venturemovingforward.org_.
