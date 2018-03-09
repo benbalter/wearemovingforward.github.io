@@ -1,5 +1,7 @@
 ---
 layout: default
+title: "Project #MovingForward"
+description: Highlighting VCs committed to diverse, inclusive, and harassment-free workplaces
 ---
 
 
